@@ -1,0 +1,74 @@
+{
+    "students": [
+      {
+        "credits_completed": "low",
+        "courses_have_requirements": false,
+        "succeeded_AI":false,
+
+        "graduate":false
+      },
+      {
+        "credits_completed": "low",
+        "courses_have_requirements": false,
+        "succeeded_AI":true,
+
+        "graduate": false
+      },
+      {
+        "credits_completed": "low",
+        "courses_have_requirements": true,
+        "succeeded_AI":false,
+        
+        "graduate": false
+      },
+      {
+        "credits_completed": "low",
+        "courses_have_requirements": true,
+        "succeeded_AI":true,
+        
+        "graduate": false
+      },
+      {
+        "credits_completed": "high",
+        "courses_have_requirements": false,
+        "succeeded_AI":false,
+
+        "graduate": true
+      },
+      {
+        "credits_completed": "high",
+        "courses_have_requirements": false,
+        "succeeded_AI":true,
+        
+        "graduate": true
+      },
+      {
+        "credits_completed": "high",
+        "courses_have_requirements": true,
+        "succeeded_AI":false,
+
+        "graduate": false
+      },
+      {
+        "credits_completed": "high",
+        "courses_have_requirements": true,
+        "succeeded_AI":false,
+
+        "graduate": false
+      },
+      {
+        "credits_completed": "high",
+        "courses_have_requirements": true,
+        "succeeded_AI":false,
+
+        "graduate": false
+      },
+      {
+        "credits_completed": "high",
+        "courses_have_requirements": true,
+        "succeeded_AI":true,
+
+        "graduate": true
+      }
+    ]
+  }
